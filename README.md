@@ -1,4 +1,5 @@
-## CSV-JSON converter
+## 🚀 CSV to JSON Converter API with PostgreSQL Integration
+
 
 ### 1️⃣ CSV Parsing
 - The CSV file is read using Node.js `fs` module.
@@ -35,3 +36,9 @@
 ### 8️⃣ Scalability & Error Handling
 - Can handle 50,000+ records efficiently (supports batching or streaming improvements).
 - Includes error handling for missing files, invalid data, and DB connection issues.
+
+## 🧪 Sample Output
+
+Below is an example of the console output after successfully parsing the CSV file, converting it to nested JSON, inserting records into PostgreSQL, and generating the age distribution report:
+
+![Sample Output](./e7524bf2-a24b-4887-90a8-a403428bd374.png)
