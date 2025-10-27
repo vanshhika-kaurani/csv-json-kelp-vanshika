@@ -41,4 +41,6 @@
 
 Below is an example of the console output after successfully parsing the CSV file, converting it to nested JSON, inserting records into PostgreSQL, and generating the age distribution report:
 
-![Sample Output](./e7524bf2-a24b-4887-90a8-a403428bd374.png)
+
+<img width="752" height="786" alt="Screenshot 2025-10-27 155833" src="https://github.com/user-attachments/assets/d94d1dc8-7560-4565-83f4-15cd51b2681c" />
+
